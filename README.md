@@ -1,5 +1,7 @@
 # 欢迎来到 OpenSpace 内核项目
 
+![](https://img.shields.io/badge/License-GPLv3-blue) ![](https://img.shields.io/badge/Language-2-orange) ![](https://img.shields.io/badge/hardware-x64-green) ![](https://img.shields.io/badge/firmware-UEFI-yellow)
+
 ## 简介
 
 此项目是一个基于GPL-3.0开源协议并且基于Hasami的操作系统内核开发项目，名为OpenSpace。它由JiTianYu于2024年发起并持续开发。OpenSpace-NEXT内核项目遵循开源精神，旨在创建一个自由、透明、任何人都可以使用和修改的操作系统内核。
